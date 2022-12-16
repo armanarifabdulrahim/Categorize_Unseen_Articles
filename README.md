@@ -6,7 +6,7 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
 
-# "Deep Learning Model for Categorizing Unseen Articles into Sport, Tech, Business, Entertainment, and Politics"
+# Deep Learning Model for Categorizing Unseen Articles into Sport, Tech, Business, Entertainment, and Politics
 
 ## Project description
 
