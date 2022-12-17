@@ -33,7 +33,8 @@ These are steps used to complete this project.
     - The target was normalized by using One Hot Encoding
     
 #### 6. Model Development
-    - Created a model using Tensorflow Bidirectional Long Short-Term Memory (LSTM) with 64 nodes for every layer with Dropout and 25 epochs.
+    - Created a model using Tensorflow Bidirectional Long Short-Term Memory (LSTM) with 64 nodes 
+    for every layer with Dropout and 25 epochs.
     (*Do increase the nodes, layers and epoch for better results)
     - Used callbacks(ie. TensorBoard and Early Stopping) to prevent overfitting.
 
@@ -47,7 +48,7 @@ These are steps used to complete this project.
  
 ## Results
 
-    - The Classification Report showed an accuracy of around 91% with an a range of F1 score between 0.88 to 0.96. This model did an okay job of classifiying texts.   
+    - The Classification Report showed an accuracy of around 91% with a range of F1 score between 0.88 to 0.96. This model did an okay job of classifiying texts.   
 
 <p align="center"><img src = "Resources/classification_report2.PNG"></p>
 
