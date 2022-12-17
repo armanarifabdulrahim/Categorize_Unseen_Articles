@@ -33,10 +33,9 @@ These are steps used to complete this project.
     - The target was normalized by using One Hot Encoding
     
 #### 6. Model Development
-    - Created a model using Tensorflow Bidirectional Long Short-Term Memory (LSTM) with 64 nodes 
-    for every layer with Dropout and 25 epochs.
-    (*Do increase the nodes, layers and epoch for better results)
-    - Used callbacks(ie. TensorBoard and Early Stopping) to prevent overfitting.
+    - Created a model using Tensorflow Bidirectional Long Short-Term Memory (LSTM) with 64 nodes for every layer with Dropout 
+    and 25 epochs. (*Do increase the nodes, layers and epoch for better results)
+    - Used callbacks(ie. TensorBoard and Early Stopping) to solve overfitting.
 
 <p align="center"><img src = "Resources/model2.png"></p>
 
